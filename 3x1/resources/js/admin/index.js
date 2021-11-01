@@ -1,0 +1,15 @@
+import './admin-user';
+import './profile-edit-profile';
+import './profile-edit-password';
+import './setting';
+import './role';
+import './permission';
+import './medium';
+import './city';
+import './area';
+import './country';
+import './user-notification';
+import './language';
+import './main';
+import './block';
+import './customer';
